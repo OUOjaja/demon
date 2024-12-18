@@ -1,0 +1,174 @@
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+body {
+	background-color: #000000;
+}
+#topnav{
+	width:100%;
+	position:fixed;
+	height:40px;
+	left:0;
+	top:0;
+	background:#000000;
+	z-index:100;
+}
+#top{
+	width:1000px;
+	height:40px;
+	margin:0 auto;
+	position:relative;
+	font:12px 黑体;
+}
+
+#top a:hover{
+	color:white;
+	}
+#logo{
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+#logoa img{position:absolute;
+	top:100px;
+	left:50px;
+width:330px;
+	height:330px;}
+#logo img{
+	width:30px;
+	height:30px;
+}
+.img{
+padding:35px;}
+#sbmt {
+	width: 50px;
+	height: 20px;
+	font: 12px 楷体;
+	text-align: center;	
+	transition: all 1s;
+	border-radius: 3px;
+	cursor: pointer;
+}
+#top#aa{width：border-radius: 10px；22:43 2024/12/3}
+#sbmt:hover {
+	background-color: yellow;
+}
+
+#bread{
+	position:absolute;
+	right:8px;
+	top:8px;
+	}
+#toplist{
+	margin-left:60px;
+	margin-top:8px;
+
+	
+}
+
+#toplist li{
+	display:inline-block;
+	margin:5px;
+background-color: red;
+}
+#topnav #topform{
+	position:absolute;
+	top:5px;
+	left:400px;
+}
+#main{
+	width:1000px;
+	background:#00000;
+	height:1500px;
+	margin:0 auto;
+	position:relative;
+	top:40px;
+}
+#banner img{
+	width:1000px;
+    height:320px;}
+#PC img{
+	width:1000px;
+    height300px;
+}
+.mg{width:1000px;
+    height300px;}
+.left{margin-left：-20px}
+
+
+
+
+
+
+
+#AC img{ 
+	width:500px;
+    height:300px;
+position:relative;top:300px;left：100px}
+#nav {
+	background:#000000;
+	}
+#nav#dianying2 img {
+	position：absolute；
+left：100px
+	}
+
+#nav li{
+	display:inline-block;
+    width:12.5%;
+    text-align:center;
+    }
+#nav  p{
+	display:inline-block;
+    width:12.5%;
+    text-align:center;
+   background:#FFFAFA }
+#PC li{
+folat：right
+    }
+#nav li a{
+	display:block;
+	padding:10px 0px 0px;
+	font:28px 楷体;
+	text-decoration: none;
+	color:white;
+margin：10
+	}
+
+img  {
+float: right;
+margin-right: 10px; /* 可以添加一些右边距，使得图片与文本之间有一定的间隔 */
+}
+#nav li a:hover{
+	background:GREEN;
+	border-bottom:5px RED solid;
+	padding-bottom:10px;
+	}
+#nav li a#current{
+	background:#E8A94C;
+}
+#footer{
+	margin-top:700px;
+	width:100%;
+	background:#333;
+	color:white;
+	padding:10px;
+	}
+#footer p{
+	text-align:center;
+}
+
+
+dl dd{    margin-top:10px;    height:100px;     /*颜色*/}
+dl dd img{    float：right;     #F00; /*颜色*/}
+dl dd a{    line-height:5px;     vertical-align:middle;     /*颜色*/    text-align:left;}
+dl dd p{ margin-top:0 px}
+.styled {
+  font-size: 2rem;
+  border-radius: 10px;
+  background-color: BROWN}
+.styl1ed{font-size: 2rem;
+  border-radius: 10px;
+  background-color: 
